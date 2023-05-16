@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   
-![image](https://github.com/22026559NguyenThuyQuynh/GoGoGame/assets/125811237/8e9fea09-23a1-41e7-81d3-4bf4d3e26593)
+
   </a>
 
 <h3 align="center">GO_GO!!!</h3>
